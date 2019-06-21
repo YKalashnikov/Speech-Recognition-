@@ -20,6 +20,7 @@ body {
     border: solid 2px rgba(7, 7, 7, 0.47);
     transition: .4s;
     outline: none;
+    cursor: pointer
 }
 
 .btn:hover{
