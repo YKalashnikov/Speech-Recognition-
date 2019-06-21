@@ -1,0 +1,33 @@
+body {
+    margin-left:50%;
+    margin-top:10%;
+}
+.btn{
+    display: inline-block;
+    text-decoration: none;
+    background: #eff0ef;
+    color: rgba(14, 13, 13, 0.678);
+    font-size: 14px;
+    font-weight: bold;
+    width: 70px;
+    height: 70px;
+    line-height: 60px;
+    border-radius: 50%;
+    text-align: center;
+    vertical-align: middle;
+    overflow: hidden;
+    box-shadow: 0px 0px 0px 5px #4444427a;
+    border: solid 2px rgba(7, 7, 7, 0.47);
+    transition: .4s;
+    outline: none;
+}
+
+.btn:hover{
+    border-style: dashed;
+    color:black;
+    text-decoration: none;
+    outline: none;
+}
+.text {
+   margin-right:50%;
+}
